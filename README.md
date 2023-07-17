@@ -59,3 +59,5 @@ Set up a serializer for `Tag` that displays the following:
 
 1. The name of the tag
 2. A list of the posts the tag is associated with
+
+https://github.com/G3o-R/phase-4-active-model-serializer-lab
